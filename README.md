@@ -1,5 +1,5 @@
 # Water-Extractor
-Device built to optimally remove drinkable water from the air
+Device built to efficiently remove drinkable water from the air. Received 2x Grand Prize award in physical sciences at the Dallas Regional Science and Engineering Fair and 1st place at the Texas State Science and Engineering Fair. Also received special award from the U.S. Navy.
 
 ## Introduction:
 Water is a necessity for life. However, imagine being stuck in the wilderness, without any clean water to drink from. This brings up the problem: How do you get a sustainable source of water in the outdoors that can be easily carried with you wherever you go?
